@@ -1,0 +1,5 @@
+First Line
+Second LineThird Line
+Fourth Line
+
+Explanation: System.out.println prints the text and moves to the next line, whereas System.out.print prints the text without moving to a new line.
